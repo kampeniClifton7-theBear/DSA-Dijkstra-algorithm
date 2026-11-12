@@ -1,10 +1,10 @@
 // select any of the following nodes : chilomoni, namiwawa, victoria_ave, mandala, nyambadwe, mbayani, chirimba, machinjiri, ndirande, chichiri, poly_village, ginnery_conner, kanjedza, limbe, chinyonga, kampala, kapeni, manja, zingwangwa, chilobwe, manase, sunnyside, mount_pleasant, naperi chitawira, njamba, chiwembe;
 
 //enter starting point 
-let starting_point = "machinjiri";
+let starting_point = "naperi";
 
 //enter destination
-let destination = "chiwembe";
+let destination = "kampala";
 
 const graph = {
 
