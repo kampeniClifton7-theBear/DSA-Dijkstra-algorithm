@@ -25,7 +25,7 @@ const graph = {
   chinyonga : { kampala : 5, njamba : 4, kanjedza : 4, chichiri : 7},
   kampala : { kapeni: 3, manja : 6, chinyonga: 5},
   kapeni : {kampala : 3, manja : 4,},
-  manja : {kampala : 6, kapeni : 4, zingwangwa : 4},
+  manja : {kampala : 6, kapeni : 4, zingwangwa : 4, njamba: 4},
   zingwangwa : {manja : 4, chilobwe : 5, manase: 9, naperi :3},
   chilobwe : {zingwangwa : 5, manase :10},
   manase : {zingwangwa : 9,chilobwe: 10, sunnyside : 6},
